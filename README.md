@@ -1,2 +1,2 @@
 # awesome-helpers
-utility functions for various purposes
+I use this space to collect the utility functions that I create for various projects. 
