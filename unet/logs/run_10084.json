@@ -1,0 +1,1 @@
+{"run_no": "run_10084", "batch_size": 4, "img_w": 512, "lr": 0.1, "epoches": 100, "weighted": false, "exclude_noise": true, "augmented": false, "n_blocks": 4, "start_filters": 32, "train_size": 5, "loss": "dice", "optimizer": "sgd"}

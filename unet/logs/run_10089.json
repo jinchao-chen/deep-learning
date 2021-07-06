@@ -1,0 +1,1 @@
+{"run_no": "run_10089", "batch_size": 8, "img_w": 512, "lr": 0.001, "epoches": 20, "weighted": false, "exclude_noise": true, "augmented": false, "n_blocks": 4, "start_filters": 32, "train_size": 800, "loss": "crossentropy", "optimizer": "sgd"}
